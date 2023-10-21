@@ -1,0 +1,17 @@
+img {
+    width: 300px;
+    border-radius: 50%;
+}
+
+.perfil {
+    align-items: center;
+    background-color: violet;
+    display: flex;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.Texto-perfil {
+    padding-left: 50px;
+}
